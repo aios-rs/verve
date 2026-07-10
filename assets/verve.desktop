@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Verve
+Comment=API co-development platform
+Exec=verve
+Icon=verve
+Type=Application
+Categories=Development;IDE;
+Terminal=false
