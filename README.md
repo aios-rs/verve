@@ -9,7 +9,11 @@ HTTP Debugging · SSH Terminal · Document Sharing · Git Version Control
 A native desktop app built with Rust + GPUI
 
 <p align="center">
-  <video src="https://github.com/aios-rs/verve/raw/main/assets/202607150825.mp4" width="800" controls></video>
+  <a href="https://github.com/aios-rs/verve/raw/main/assets/202607150825.mp4">
+    <img src="https://github.com/aios-rs/verve/raw/main/assets/video-thumbnail.png" alt="Watch Demo Video" width="800">
+  </a>
+  <br />
+  <em>Click image above to watch demo video</em>
 </p>
 
 </div>
