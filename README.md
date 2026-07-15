@@ -8,6 +8,13 @@ HTTP Debugging · SSH Terminal · Document Sharing · Git Version Control
 
 A native desktop app built with Rust + GPUI
 
+<p align="center">
+  <video src="./assets/202607150825.mp4" width="800" controls>
+    Your browser does not support the video tag.
+    <a href="./assets/202607150825.mp4">Click here to watch the demo video</a>
+  </video>
+</p>
+
 </div>
 
 ---
