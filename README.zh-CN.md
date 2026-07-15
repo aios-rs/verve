@@ -8,6 +8,10 @@ HTTP 调试 · SSH 终端 · 文档分享 · Git 版本控制
 
 一个基于 Rust + GPUI 构建的原生桌面应用
 
+<p align="center">
+  <video src="https://github.com/aios-rs/verve/raw/main/assets/202607150825.mp4" width="800" controls></video>
+</p>
+
 </div>
 
 ---
